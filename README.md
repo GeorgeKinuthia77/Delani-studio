@@ -1,4 +1,5 @@
 Project Name
+Date:3/6/2019
 
 Delani-Studio
 Project Description
@@ -11,10 +12,15 @@ George Kinuthia
 Technologies Utilized
 
 1.HTML
+
 2.CSS
+
 3.JS
+
 4.JQUERY
+
 5.Bootstrap
+
 Setup Instructions
 
 I. Search my repository on github or alternatively click here
@@ -28,6 +34,6 @@ I. gnjoro077@gmail.com
 
 II. +254704282877
 
-######License
+License
 
 Copyright © 2019, George Kinuthia

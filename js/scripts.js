@@ -18,6 +18,6 @@ $(document).ready(function(){
 
   $(document).ready(function(){
     $(".contactus").click(function(){
-      alert("Hello!!Thank you for submitting your message.");
+      alert("Hello!!Thank you for submitting,will get to you soon.");
     })
   })

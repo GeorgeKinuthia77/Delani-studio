@@ -27,7 +27,7 @@ Setup Instructions
 I. Search my repository on github or alternatively click here
 II. Go through the website,if impressed,kindly reach me by filling the contact form .         
 Live Link
-
+https://georgekinuthia77.github.io/Delani-studio/
 
 CONTACTS
 

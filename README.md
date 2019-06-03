@@ -1,7 +1,6 @@
 #Project Name
 
 Delani-Studio
-
 ##Project Description
 
 I. This is an Independent Project based on a A Fictional Delani Studio Landing Page Website.
